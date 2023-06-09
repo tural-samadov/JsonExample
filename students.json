@@ -1,0 +1,20 @@
+{
+  "test": [
+    {
+      "name": "Tural",
+      "surname": "Samadov"
+    },
+    {
+      "name": "Kamran",
+      "surname": "Mammadov"
+    },
+    {
+      "name": "Vasif",
+      "surname": "Aliyev"
+    },
+    {
+      "name": "Ilkin",
+      "surname": "Suleymanov"
+    }
+  ]
+}
